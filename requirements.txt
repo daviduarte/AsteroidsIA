@@ -1,0 +1,4 @@
+pygame==2.0.0
+numpy==1.18.5
+shapely==1.6.4.post2
+matplotlib
